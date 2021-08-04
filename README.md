@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndrewLitchford
-- 🌱 💻 I’m interested in Plant-Based Nutrition & WordPress Development
+- 🌱 💻 I’m interested in Plant-Based Nutrition, Music Production, Shopify/WordPress/UI Development
 - 🖥 I’m currently learning React.JS and Gatsby
-- 🤝 I’m looking to collaborate on projects that help companies in the Sustainability and/or Plant-Based industries. 
 - 📩 You can reach me at info@andrewlitchford.com
 
 <!---
