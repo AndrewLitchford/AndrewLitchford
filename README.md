@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AndrewLitchford
-- 🌱 🎧 💻 I’m interested in Plant-Based Nutrition, Music Production, Shopify/WordPress/UI Development
-- 🖥 I’m currently learning React.JS and Gatsby
-- 📩 You can reach me at andrew@starlingdigital.com
+# 👋 Hi, I’m Andrew!
+
+I'm the founder of [Starling (https://starlingdigital.com)][Starling] and [Modiv (https://modivhq.com)][Modiv], and I currently work full-time for [Reason (https://reason.com)][Reason] as a UI Designer & Developer. When I'm not doing things on the web, I love to spend time working on music production or hiking a mountain. 
 
 <!---
 AndrewLitchford/AndrewLitchford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
